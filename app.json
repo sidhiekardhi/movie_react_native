@@ -1,0 +1,12 @@
+{
+  "name": "MovieOMDB",
+  "displayName": "MovieOMDB",
+  "expo": {
+    "name": "MovieOMDB",
+    "slug": "MovieOMDB",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
